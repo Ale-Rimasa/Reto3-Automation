@@ -30,19 +30,4 @@ fomentando la comprensión práctica de los conceptos fundamentales de la automa
 💬 Comenta en al menos dos publicaciones de tus compañeros, destacando aprendizajes o haciendo preguntas relevantes.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                     Automatización de pruebas		
-
-                                                                          ELDAR ACADEMY
-
-
-                                                                                                                                                       Versión: 1.0 
-                                                                                                                                     Fecha: 13 de Diciembre de 2024
- 
-
-                                                Objetivo	                                                       3
-                                                Introducción	                                                   3
-                                                Herramientas utilizadas: Instalación y configuraciones	         3
-                                                Demostración de resultados	                                     10
-                                                Conclusiones y recomendaciones	                                 11
-                                                Bibliografía	                                                   11
-
+                                                                  
